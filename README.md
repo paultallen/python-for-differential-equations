@@ -17,7 +17,7 @@ Please note:
 - [NumPy arrays (1d)](programming_tools/numpy_arrays_1d.md)
 - [NumPy arrays (2d)](programming_tools/numpy_arrays_2d.md)
 - [For loops](programming_tools/for_loops.md)
-- Integration with `scipy.integrate`
+- [Integration](programming_tools/integration.md)
 
 ## Simple plots
 - Plot a list
