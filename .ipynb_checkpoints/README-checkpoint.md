@@ -14,7 +14,8 @@ Please note:
 - [Strings](programming_tools/strings.md)
 - [Defining functions](programming_tools/defining_functions.md)
 - [Lists](programming_tools/lists.md)
-- NumPy arrays
+- [NumPy arrays (1d)](programming_tools/numpy_arrays_1d.md)
+- [NumPy arrays (1d)](programming_tools/numpy_arrays_2d.md)
 - Loops
 - Integration with `scipy.integrate`
 
