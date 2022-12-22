@@ -18,9 +18,9 @@ All the code in these notes can be run in any of these environments.
 ## Programming tools
 - [Variables](programming_tools/variables.md)
 - NumPy functions
-- Strings
+- [Strings](programming_tools/strings.md)
 - Defining functions
-- Lists
+- [Lists](programming_tools/lists.md)
 - NumPy arrays
 - Loops
 - Integration with `scipy.integrate`
