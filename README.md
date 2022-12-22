@@ -12,7 +12,7 @@ Please note:
 - [Variables](programming_tools/variables.md)
 - [Math from NumPy](programming_tools/numpy_functions.md)
 - [Strings](programming_tools/strings.md)
-- Defining functions
+- [Defining functions](programming_tools/defining_functions.md)
 - [Lists](programming_tools/lists.md)
 - NumPy arrays
 - Loops
