@@ -1,6 +1,4 @@
-# Python basics
-
-## Variables
+# Variables
 Read variable assignment right-to-left.
 To see the value of a variable, use `print()`:
 ```
@@ -22,8 +20,10 @@ We can assign two variables at once:
 x, y = 2, 4
 print(x)
 print(y)
-print(x+y)
+print(x,y)
 ```
+Note that the comma isn't printed; see the notes on _strings_.
+
 Arithmetic with variables
 ```
 length = 5
