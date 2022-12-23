@@ -28,7 +28,7 @@ Please note:
 ## Using `solve_ivp`
 - [Introduction: equation with one variable](using_solve_ivp/one_variable.md)
 - [Multiple initial conditions](using_solve_ivp/multiple_ics.md)
-- Equations with parameters
+- [Equations with parameters](using_solve_ivp/ode_with_parameters.md)
 - Systems of equations
 
 ## Advanced plotting topics
