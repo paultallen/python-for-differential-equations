@@ -20,9 +20,8 @@ Please note:
 - [Integration](programming_tools/integration.md)
 
 ## Simple plots
-- Plot a list
-- Times and values
-- Decorations (labels, axes, titles, etc)
+- [First plots with pyplot](simple_plots/first_plots.md)
+- [Decorations (labels, axes, titles, etc)](simple_plots/plot_decorations.md)
 - Explicit functions
 - Generic functions
 - Multiple functions

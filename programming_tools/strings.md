@@ -25,4 +25,4 @@ Here
 - `0.3f` displays the number with a minimum of 0 spaces with a _fixed_ number of 3 digits 
 - `0.3e` displays the number with a minimum of 0 spaces using exponential (scientific) notation having 3 explicit digits
 
-Replace `0.3f` with `10.3f` or to see the effect of increasig the minimum number of spaces, etc.
+Replace `0.3f` with `10.3f` to see the effect of increasing the minimum number of spaces, etc.
