@@ -6,7 +6,7 @@ f(x) = x(1-x) - h,
 $$
 where $h\geq 0$.
 There are four cases to consider:
-- when $h=0$, the roots are $x=0$ and $x=1$\
+- when $h=0$, the roots are $x=0$ and $x=1$
 - when $0<h<\frac14$, there are roots at
 $$ x_\pm = \frac12 \pm \sqrt{\frac14 - h} $$
 - when $h = \frac14$, there is a single root at $x = \frac12$
