@@ -1,7 +1,7 @@
-# Plot decorations (labels, axes, titles, etc)
+# Plot decorations (labels, axes, titles)
 There are additional functions in pyplot to format plots, including:
-- `plt.axhline` used to add a horizontal axis.
-Similarly, `plt.axvline` can be used to add a vertical axis.
+- `plt.axhline()` used to add a horizontal axis.
+Similarly, `plt.axvline()` can be used to add a vertical axis.
 - `plt.xlabel()` and `plt.ylabel()` are used to label the horizontal and vertical axes.
 - `plt.xlim()` and `plt.ylim()` are used to set the horizontal and vertical limits.
 

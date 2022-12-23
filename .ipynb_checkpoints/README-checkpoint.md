@@ -21,10 +21,9 @@ Please note:
 
 ## Simple plots
 - [First plots with pyplot](simple_plots/first_plots.md)
-- [Decorations (labels, axes, titles, etc)](simple_plots/plot_decorations.md)
-- Explicit functions
-- Generic functions
-- Multiple functions
+- [Decorations (labels, axes, titles)](simple_plots/plot_decorations.md)
+- [Plotting functions](simple_plots/plotting_functions.md)
+- [Functions with a parameter](simple_plots/functions_with_parameter.md)
 
 ## Using `solve_ivp`
 - Equations with one variable
