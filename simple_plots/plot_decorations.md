@@ -26,3 +26,14 @@ plt.ylim(-5,5)
 
 plt.show()
 ```
+The result is the following:
+![Decorated plot](decorated.jpg)
+
+To save the figure, replace
+```
+plt.show()
+```
+by 
+```
+plt.savefig('decorated.jpg')
+```
