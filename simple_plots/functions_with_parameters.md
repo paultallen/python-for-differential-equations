@@ -6,7 +6,7 @@ where $h \geq 0$.
 There are four cases to consider:
 - when $h=0$, the roots are $x=0$ and $x=1$
 - when $0 < h < \frac{1}{4}$, there are roots at
-$$ x_{\pm} = \frac{1}{2} \pm \sqrt{\frac{1}{4} - h} $$
+$$x_{\pm} = \frac{1}{2} \pm \sqrt{\frac{1}{4} - h} $$
 - when $h = \frac{1}{4}$, there is a single root at $x = \frac{1}{2}$
 - when $h>\frac{1}{4}$, there are no roots
 
