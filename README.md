@@ -26,10 +26,13 @@ Please note:
 - [Functions with a parameter](simple_plots/functions_with_parameters.md)
 
 ## Using `solve_ivp`
-- Equations with one variable
+- [Introduction: equation with one variable](using_solve_ivp/one_variable.md)
 - Multiple initial conditions
+- Equations with parameters
 - Systems of equations
 
-## Plots with vector fields
-- slope fields
-- vector fields
+## Advanced plotting topics
+- parametric plots
+- slope fields for equations of one variable
+- vector fields for systems
+
