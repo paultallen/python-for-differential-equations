@@ -29,7 +29,7 @@ Please note:
 - [Introduction: equation with one variable](using_solve_ivp/one_variable.md)
 - [Multiple initial conditions](using_solve_ivp/multiple_ics.md)
 - [Equations with parameters](using_solve_ivp/ode_with_parameters.md)
-- Systems of equations
+- [Systems of equations](using_solve_ivp/systems.md)
 
 ## Advanced plotting topics
 - parametric plots
