@@ -69,3 +69,50 @@ The result is the following:
 
 
 ![Parametric plot for Lotka-Volterra system](parametric2.jpg)
+
+
+## Bonus
+For the Lotka-Volterra model we can create a graphic that shows both the parametric plot and also the populations vs time:
+
+
+![Combined plot for Lotka-Volterra](parametric3.jpg)
+
+Here is the code:
+```
+def f(t,vars):
+    x,y = vars
+    return [x-x*y, -y + x*y]
+
+# numerical solution
+ic = [0.5, 0.5]
+t0 = 0
+tmax = 20
+soln = solve_ivp( f, [t0, tmax], ic, 
+                 t_eval = np.linspace(0, tmax, 1000))
+
+# figure setup
+plt.figure(figsize=[10,4])
+ticks = [0, .5, 1, 1.5, 2, 2.5]
+
+# parametric plot
+plt.subplot(121)
+plt.plot(soln.y[0], soln.y[1])
+plt.xticks(ticks)
+plt.yticks(ticks)
+plt.xlabel('x')
+plt.ylabel('y')
+plt.title('Parametric plot')
+
+# plot vs time 
+plt.subplot(122)
+plt.plot(soln.t, soln.y[0], label='x')
+plt.plot(soln.t, soln.y[1], label='y')
+plt.yticks(ticks)
+plt.xlabel('time $t$')
+plt.legend(loc=1)
+plt.title('Population vs time')
+
+# finishing touches
+plt.suptitle('Lotka-Volterra system')
+plt.show()
+```
