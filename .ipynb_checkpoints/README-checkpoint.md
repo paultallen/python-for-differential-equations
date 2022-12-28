@@ -34,5 +34,5 @@ Please note:
 ## Advanced plotting topics
 - [Slope fields for equations of one variable](advanced_plotting/slope_fields.md)
 - [Vector fields for systems](advanced_plotting/vector_fields.md)
-- parametric plots
+- [Parametric plots](advanced_plotting/parametric_plots.md)
 
