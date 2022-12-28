@@ -32,7 +32,7 @@ Please note:
 - [Systems of equations](using_solve_ivp/systems.md)
 
 ## Advanced plotting topics
-- parametric plots
-- slope fields for equations of one variable
+- [Slope fields for equations of one variable](advanced_plotting/slope_fields.md)
 - vector fields for systems
+- parametric plots
 
