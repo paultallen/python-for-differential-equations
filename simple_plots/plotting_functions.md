@@ -1,6 +1,6 @@
 # Plotting functions
 
-In order to plot a function, we require
+In order to plot a function, we require 
 - a list of input values
 - a list of output values
 
